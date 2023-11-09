@@ -1,0 +1,16 @@
+D:\Ис-41\Practica5\Practica5\bin\Debug\Practica5.exe.config
+D:\Ис-41\Practica5\Practica5\bin\Debug\Practica5.exe
+D:\Ис-41\Practica5\Practica5\bin\Debug\Practica5.pdb
+D:\Ис-41\Practica5\Practica5\obj\Debug\Practica5.csproj.AssemblyReference.cache
+D:\Ис-41\Practica5\Practica5\obj\Debug\Practica5.csproj.SuggestedBindingRedirects.cache
+D:\Ис-41\Practica5\Practica5\obj\Debug\Practica5.csproj.CoreCompileInputs.cache
+D:\Ис-41\Practica5\Practica5\obj\Debug\Practica5.exe
+D:\Ис-41\Practica5\Practica5\obj\Debug\Practica5.pdb
+C:\Users\Stepan\Downloads\Practica5\Practica5\bin\Debug\Practica5.exe.config
+C:\Users\Stepan\Downloads\Practica5\Practica5\bin\Debug\Practica5.exe
+C:\Users\Stepan\Downloads\Practica5\Practica5\bin\Debug\Practica5.pdb
+C:\Users\Stepan\Downloads\Practica5\Practica5\obj\Debug\Practica5.csproj.AssemblyReference.cache
+C:\Users\Stepan\Downloads\Practica5\Practica5\obj\Debug\Practica5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stepan\Downloads\Practica5\Practica5\obj\Debug\Practica5.csproj.CoreCompileInputs.cache
+C:\Users\Stepan\Downloads\Practica5\Practica5\obj\Debug\Practica5.exe
+C:\Users\Stepan\Downloads\Practica5\Practica5\obj\Debug\Practica5.pdb
